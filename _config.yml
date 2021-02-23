@@ -10,13 +10,12 @@
 
 title: KieBlog                          # the main title
 
-tagline: There is 1 spoon.  # it will display as the sub-title
-
+tagline: There is 0 spoon.  # it will display as the sub-title 
 description: >-                        # used by seo meta and the atom feed
   There is a spoon.
 
 # Replace with your domain, e.g. 'https://username.github.io'
-url: 'https://KieBlog.github.io'
+url: 'https://KieBlog.github.io/'
 
 author: Kieran                  # change to your full name
 
