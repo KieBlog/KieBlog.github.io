@@ -13,7 +13,7 @@ title: KieBlog                          # the main title
 tagline: There is no spoon.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  There is no spoon.
+  There is a spoon.
 
 # Replace with your domain, e.g. 'https://username.github.io'
 url: 'https://KieBlog.github.io'
