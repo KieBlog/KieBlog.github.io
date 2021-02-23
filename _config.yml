@@ -10,7 +10,7 @@
 
 title: KieBlog                          # the main title
 
-tagline: There is no spoon.  # it will display as the sub-title
+tagline: There is a spoon.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   There is a spoon.
